@@ -34,7 +34,7 @@ Projeto focado no aprendizado da linguagem, introduzindo o a programção orient
 
 ## 🎨 Layout
 
-![Inter 1](https://github.com/JotaKatana/Metodo_Encapsulamento_CSharp/blob/master/_assets/Inter1.PNG)
+![Inter 1](https://github.com/JotaKatana/Heranca_CSharp/blob/master/_assets/Inter1.PNG)
 
 ---
 
